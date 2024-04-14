@@ -16,7 +16,7 @@ gcloud dataproc jobs submit pyspark PY_FILE (--cluster=cluster-st446-project-ykl
   gs://st446-project-ykl-1204/student-dist-ARIMA-main//darima.py
 
 ##### use this version, check bucket name and cluster name
-  gcloud dataproc jobs submit pyspark gs://cluster-st446-project-ykl/student-dist-ARIMA/darima.py \
+  gcloud dataproc jobs submit pyspark gs://bucket-st446-project-ykl/student-dist-ARIMA/darima.py \
   --cluster=cluster-st446-project-ykl-1404 \
   --bucket=bucket_st446_project_ykl \
   --project=st446-19012024-ykl \
