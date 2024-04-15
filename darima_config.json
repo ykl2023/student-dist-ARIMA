@@ -7,3 +7,6 @@
   "gcp_test_datapath": "gs://bucket_st446_project_1504/student-dist-ARIMA/data/NEMASSBOST_test.csv",
   "method": "mean"
 }
+
+
+bucket_st446_project_1504/student-dist-ARIMA/data
