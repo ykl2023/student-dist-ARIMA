@@ -1,7 +1,7 @@
 suppressPackageStartupMessages(require("forecast"))
 suppressPackageStartupMessages(require("polynom"))
-install.packages("polynom")
-install.packages("forecast")
+#install.packages("polynom")
+#install.packages("forecast")
 
 
 ar_coefficients <- function(ar = 0, d = 0L, ma = 0, 
